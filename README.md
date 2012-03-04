@@ -10,4 +10,4 @@ You shouldn't actually use this gem ATM. But, if you could, it would go somethin
 
 ## Development
 
-The gem is being developed as a collaboration between @GriffithStudio and @ContrarySheep. 
+The gem is being developed as a collaboration between [@GriffithStudio](http://twitter.com/GriffithStudio) and [@ContrarySheep](http://twitter.com/ContrarySheep). 
