@@ -5,8 +5,8 @@ require "scrapbook/version"
 Gem::Specification.new do |s|
   s.name        = "scrapbook"
   s.version     = Scrapbook::VERSION
-  s.authors     = ["Christopher Griffith Studio"]
-  s.email       = ["studio@christophergriffith.com"]
+  s.authors     = ["Christopher Griffith Studio","ContrarySheep"]
+  s.email       = ["studio@christophergriffith.com","contrarysheep@gmail.com"]
   s.homepage    = "http://griffithstudio.github.com/scrapbook"
   s.summary     = %q{A ruby gem to store social media postings.}
   s.description = %q{A ruby gem to store social media postings.}
