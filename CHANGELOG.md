@@ -1,5 +1,13 @@
-#Scrapbook Changelog
+# Scrapbook Changelog
 
-##0.1 (March 3rd, 2012)
+## 0.1.2 (March 6th, 2012)
+
+Basic generator functionality added.
+
+## 0.1.1 (March 5th, 2012)
+
+ContrarySheep added to authors.
+
+## 0.1 (March 3rd, 2012)
 
 Initial project creation.
