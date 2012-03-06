@@ -1,5 +1,9 @@
 # Scrapbook Changelog
 
+## 0.1.2.1 (March 6th, 2012)
+
+Fix for live gem.
+
 ## 0.1.2 (March 6th, 2012)
 
 Basic generator functionality added.

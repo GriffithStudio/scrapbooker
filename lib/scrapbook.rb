@@ -1,5 +1,6 @@
+module Scrapbook
+end
+
 require "scrapbook/tweets"
 require "scrapbook/scrapbook"
 
-module Scrapbook
-end
