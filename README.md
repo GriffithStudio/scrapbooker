@@ -1,3 +1,5 @@
+![Scrapbooker Logo](http://griffithstudio.github.com/scrapbooker/scrapbooker_128.png)
+
 # Scrapbooker
 
 Scrapbooker is a gem for rails that allows you to pull information from social media feeds then store the information locally. This is handy for keeping an archive of activity, but also a good way to make that content available to your Rails app.
@@ -13,10 +15,6 @@ Installing the gem is as simple as adding it your gemfile.
 This will also install the latest version of the gem, plus any dependencies that you may need to connect to the various services including:
 
 + twitter
-+ simple_oauth
-+ addressable
-+ multipart-post
-+ faraday
 
 ## Usage
 
