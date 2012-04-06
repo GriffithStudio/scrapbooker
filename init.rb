@@ -1,1 +1,1 @@
-require "scrapbook"
+require "scrapbooker"

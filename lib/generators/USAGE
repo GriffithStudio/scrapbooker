@@ -1,0 +1,10 @@
+Description:
+    The scrapbooker generator creates a model and migration in your Rails app. Where the NAME argument is the name of your model.
+
+Example:
+    
+    >> rails generate scrapbooker Scrapbook
+    
+    Creates a new model with the class "Scrapbook" and a migration for a table called "scrapbooks".
+
+

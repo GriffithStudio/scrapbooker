@@ -1,4 +1,8 @@
-# Scrapbook Changelog
+# Scrapbooker Changelog
+
+## 1.0 (April 6th, 2012)
+
+Changed gem name and releasing version 1.0
 
 ## 0.1.2.1 (March 6th, 2012)
 
