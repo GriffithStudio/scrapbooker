@@ -20,15 +20,12 @@ Gem::Specification.new do |s|
   
   # specify any dependencies here;
   s.add_dependency 'rails',   '>= 3.0'
-  s.add_dependency 'json'
-  s.add_dependency 'twitter'
+  s.add_dependency 'twitter', '~> 2.0'
     
   # specify development depencies here;
-  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'rspec', '~> 2.0'
   s.add_development_dependency 'vcr', '~> 2.0.0'
   s.add_development_dependency 'fakeweb'
   s.add_development_dependency 'sqlite3'
-
-  # specify any runtime dependencies here;
 
 end
